@@ -1,0 +1,21 @@
+<table height="400" width="600" cellpadding="5" border="0" cellspacing="5" >
+<tr height="50" valign="top" >
+<td style=" color:#000000; font-size:12pt; background-color:#CCFFFF; font-family:arial; bLabel:main; bEditID:r3st1;" tEditID="c1r1" locked="0" aEditID="c1r1" >
+<![CDATA[<strong><font color="#333399" size="5">C-Sports</font></strong>]]></td>
+</tr>
+<tr height="300" valign="top" >
+<td style=" color:#000000; font-size:12pt; background-color:#CCFFFF; font-family:arial; bLabel:main; bEditID:r3st1;" tEditID="c1r2" locked="0" aEditID="c1r2" >
+<![CDATA[<p>Dear User,</p><p>&nbsp;</p><p>The case you have raised having case number :{!Case.CaseNumber} has closed.</p><p>
+</p><p>See details below:</p><p>&nbsp;</p><p>
+</p><p>Case Subject :{!Case.Subject}</p><p>
+</p><p>Case Description :{!Case.Description}</p><p>
+</p><p>Case Status :{!Case.Status}</p><p>
+</p><p>Case Reason :{!Case.Reason}</p><p>
+</p><p>Case Closed Date/TIme :{!Case.ClosedDate}</p><p>&nbsp;</p><p>&nbsp;</p><p>
+</p><p>contact us if you need any help.</p>]]></td>
+</tr>
+<tr height="50" valign="top" >
+<td style=" color:#000000; font-size:12pt; background-color:#CCFFFF; font-family:arial; bLabel:main; bEditID:r3st1;" tEditID="c1r3" locked="0" aEditID="c1r3" >
+<![CDATA[<p>Warm Regards,</p><p><em><strong><font color="#333399" size="2">C-Sports Help Desk</font></strong></em></p>]]></td>
+</tr>
+</table>

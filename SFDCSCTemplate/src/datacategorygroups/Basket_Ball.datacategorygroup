@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataCategoryGroup xmlns="http://soap.sforce.com/2006/04/metadata">
+    <active>true</active>
+    <dataCategory>
+        <dataCategory>
+            <label>Apparel</label>
+            <name>Apparel</name>
+        </dataCategory>
+        <dataCategory>
+            <label>Equipments</label>
+            <name>Equipments</name>
+        </dataCategory>
+        <dataCategory>
+            <label>Balls</label>
+            <name>Balls</name>
+        </dataCategory>
+        <dataCategory>
+            <label>Footwear</label>
+            <name>Footwear</name>
+        </dataCategory>
+        <label>All</label>
+        <name>All</name>
+    </dataCategory>
+    <label>Basket Ball</label>
+    <objectUsage>
+        <object>KnowledgeArticleVersion</object>
+    </objectUsage>
+</DataCategoryGroup>

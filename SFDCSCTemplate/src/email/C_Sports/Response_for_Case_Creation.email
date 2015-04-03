@@ -1,0 +1,31 @@
+<table height="400" width="600" cellpadding="5" border="0" cellspacing="5" >
+<tr height="50" valign="top" >
+<td style=" color:#000000; font-size:12pt; background-color:#CCFFFF; font-family:arial; bLabel:main; bEditID:r3st1;" tEditID="c1r1" locked="0" aEditID="c1r1" >
+<![CDATA[<FONT color=#000066 size=5 face=Arial,Sans-Serif><STRONG><EM>C-Sports</EM></STRONG></FONT>]]></td>
+</tr>
+<tr height="300" valign="top" >
+<td style=" color:#000000; font-size:12pt; background-color:#CCFFFF; font-family:arial; bLabel:main; bEditID:r3st1;" tEditID="c1r2" locked="0" aEditID="c1r2" >
+<![CDATA[<p><font style="background-color: rgb(204, 255, 255);">Dear User,</font></p>
+<p><font style="background-color: rgb(204, 255, 255);"></font>&nbsp;</p>
+<p>Thanks for contacting us..!</p>
+<p>&nbsp;</p>
+<p>With Respect&nbsp;to your&nbsp;Complaint/Inquiry&nbsp;a case has be created with below details.</p>
+<p>&nbsp;</p>
+<p><font size="2">Case Number&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: {!Case.CaseNumber}</font></p>
+<p><font size="2">&nbsp;</font></p>
+<p><font size="2">Case Created Date/Time&nbsp;&nbsp;&nbsp;: {!Case.CreatedDate}</font></p><p><font size="2"></font>&nbsp;</p><p><font size="2">Case Owner&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;: {!Case.OwnerFullName}</font></p><p><font size="2">&nbsp;</font></p><p><font size="2">Case Owner Email&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : {!Case.OwnerEmail}</font></p><p><font size="2">&nbsp;</font></p><p><font size="2">Case Owner Phone&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : {!Case.OwnerPhone}</font></p>
+<p><font size="2">&nbsp;</font></p>
+<p><font size="2">Case Description&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;: {!Case.Description}</font></p>
+<p><font size="2">&nbsp;</font></p>
+<p><font size="2"></font>&nbsp;</p>
+<p><font size="2"></font>&nbsp;</p>
+<p><font size="2">Please note down the case Info before contacting us.</font></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>]]></td>
+</tr>
+<tr height="50" valign="top" >
+<td style=" color:#000000; font-size:12pt; background-color:#CCFFFF; font-family:arial; bLabel:main; bEditID:r3st1;" tEditID="c1r3" locked="0" aEditID="c1r3" >
+<![CDATA[<P><FONT size=2><EM>Thanks &amp; Regards,</EM></FONT></P>
+<P><FONT size=2 face=Verdana,Helvetica,Sans-Serif><EM>C-Sports &nbsp;Service Desk.</EM></FONT></P>]]></td>
+</tr>
+</table>

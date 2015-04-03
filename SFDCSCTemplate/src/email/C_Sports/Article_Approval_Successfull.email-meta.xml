@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <available>true</available>
+    <description>Email for Email Approval Successfull</description>
+    <encodingKey>ISO-8859-1</encodingKey>
+    <letterhead>C_Sports</letterhead>
+    <name>Article Approval Successfull</name>
+    <style>formalLetter</style>
+    <subject>The article {!Product_Complaints__kav.ArticleNumber}  is Approved successfully</subject>
+    <type>html</type>
+</EmailTemplate>

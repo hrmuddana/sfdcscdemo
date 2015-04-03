@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LiveChatButton xmlns="http://soap.sforce.com/2006/04/metadata">
+    <animation>Appear</animation>
+    <deployments>
+        <deployment>Stadard Deployments</deployment>
+    </deployments>
+    <enableQueue>false</enableQueue>
+    <inviteEndPosition>Center</inviteEndPosition>
+    <isActive>true</isActive>
+    <label>Billing Support Invitation</label>
+    <optionsCustomRoutingIsEnabled>false</optionsCustomRoutingIsEnabled>
+    <optionsHasInviteAfterAccept>false</optionsHasInviteAfterAccept>
+    <optionsHasInviteAfterReject>false</optionsHasInviteAfterReject>
+    <optionsHasRerouteDeclinedRequest>false</optionsHasRerouteDeclinedRequest>
+    <optionsIsAutoAccept>false</optionsIsAutoAccept>
+    <optionsIsInviteAutoRemove>false</optionsIsInviteAutoRemove>
+    <routingType>LeastActive</routingType>
+    <skills>
+        <skill>Products_Skills</skill>
+    </skills>
+    <type>Invite</type>
+</LiveChatButton>
